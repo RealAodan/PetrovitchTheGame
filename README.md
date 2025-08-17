@@ -24,5 +24,5 @@ The objective is to find your way out of the dark maze before your torch runs ou
 This game was developed as a high school project at **Collège Français** within the **Concentration de Conception de jeux vidéo et de réalité virtuelle**.
 
 Special thanks to:
-- Teacher Mr Alexandre Oligny for guidance
+- Teacher Alexandre Oligny for guidance
 - Classmates Alexander Moreno, Aleksandr Kudashkin, Zachary Filipe, Grabriel Rodriguez for collaboration.
