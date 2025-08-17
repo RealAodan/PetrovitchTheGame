@@ -17,6 +17,8 @@ The objective is to find your way out of the dark maze before your torch runs ou
 ## 🚀 Play the Game
 👉 [Download Petrovitch on MEGA](https://mega.nz/file/HgwUgZiT#IS-x1hlLXuryyF4U4I9FcpR4BfXEq_6HbtSmtJVuNqc)
 
+## 📸 Mid-development clip:
+👉 [Watch the video on MEGA](https://mega.nz/file/qgRWzRCT#9pbyJM8Rf4PWoEIXFKJLtyoUPhrEkAGH3dAekdVmkak) **This clip does not represent the Final Build of the game.**
 
 ## 🙏 Credits
 This game was developed as a high school project at **Collège Français** within the **Concentration de Conception de jeux vidéo et de réalité virtuelle**.
