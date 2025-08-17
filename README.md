@@ -1,5 +1,5 @@
 # Petrovitch The Game
-This is a simple maze-like horror game that I built with my classmates at Collège Français during high school.
+This is a simple maze-like horror game that my classmates and I built at Collège Français during high school.
 This project was one of my first experiences in game development.
 
 ## 🛠️ Built With
